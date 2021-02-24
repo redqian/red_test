@@ -1,0 +1,61 @@
+{
+  "868ea359662a56a2b8e2148d30343bdb" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4b317151696cafc",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 'success' == 'failure'\n  - failure\n  + success",
+      "time" : {
+        "start" : 1612168639030,
+        "stop" : 1612168639033,
+        "duration" : 3
+      }
+    } ]
+  },
+  "456bc337ba4e7e3ed43ae0c980f8e271" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "349802d34265246d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612168639074,
+        "stop" : 1612168639074,
+        "duration" : 0
+      }
+    } ]
+  },
+  "43107a9411b8a20b4c426dc9de8866ad" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b2b41438249b4f99",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 这次不执行删除操作",
+      "time" : {
+        "start" : 1612168639075,
+        "stop" : 1612168639075,
+        "duration" : 0
+      }
+    } ]
+  }
+}

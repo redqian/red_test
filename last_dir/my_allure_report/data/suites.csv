@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Feb 01 16:37:19 CST 2021","Mon Feb 01 16:37:19 CST 2021","0","","test_my_allure","Test_Requirement","","","test_update_cart",""
+"failed","Mon Feb 01 16:37:19 CST 2021","Mon Feb 01 16:37:19 CST 2021","3","","test_my_allure","Test_Requirement","","","test_add_into_cart",""
+"skipped","Mon Feb 01 16:37:19 CST 2021","Mon Feb 01 16:37:19 CST 2021","0","","test_my_allure","Test_Requirement","","","test_delete_cart",""

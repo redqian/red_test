@@ -1,0 +1,60 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "需要做的一个大需求名称",
+    "children" : [ {
+      "name" : "加入购物车",
+      "children" : [ {
+        "name" : "test_add_into_cart",
+        "uid" : "4b317151696cafc",
+        "parentUid" : "e150c7f8600d6282021e7fbcf6e61ed9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1612168639030,
+          "stop" : 1612168639033,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e150c7f8600d6282021e7fbcf6e61ed9"
+    }, {
+      "name" : "修改购物车",
+      "children" : [ {
+        "name" : "test_update_cart",
+        "uid" : "349802d34265246d",
+        "parentUid" : "8091d4013bf2c451dafa9cd101597540",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612168639074,
+          "stop" : 1612168639074,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8091d4013bf2c451dafa9cd101597540"
+    }, {
+      "name" : "删除购物车",
+      "children" : [ {
+        "name" : "test_delete_cart",
+        "uid" : "b2b41438249b4f99",
+        "parentUid" : "1e03055b08896f17c5aad81b16c54446",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1612168639075,
+          "stop" : 1612168639075,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1e03055b08896f17c5aad81b16c54446"
+    } ],
+    "uid" : "e51e13d280ba563104a0752ac4e58f18"
+  } ]
+}
